@@ -1,4 +1,4 @@
-# LTEE Project
+# LTEE Project with Leonid Klarov
 
 A reproducible analysis project for LTEE variant calling
 
